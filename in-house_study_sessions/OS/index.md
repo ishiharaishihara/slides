@@ -26,19 +26,67 @@ class:
   _header: 'OSとは'
 -->
 
----
-## OSの種類と歴史
----
-<!-- 
-  _header: 'OSの種類と歴史'
--->
+Operating System の略
 
 ---
-## 商用OS
+<!-- 
+  _header: 'OSとは'
+-->
+
+- コンピュータを操作(Operating)する体系(System)のこと
+- 具体的な定義は存在しない
+
+---
+## OSの役割
 ---
 <!-- 
-  _header: '商用OS'
+  _header: 'OSの役割'
 -->
+
+- リソースの管理
+- アプリケーションとリソースの仲介
+- 抽象化
+
+---
+## OSの種類
+---
+<!-- 
+  _header: 'OSの種類'
+-->
+
+- Microsoft Windows
+- macOS
+- iOS
+- Android
+- Linux
+
+---
+<!-- 
+  _header: 'OSの種類'
+-->
+
+### Microsoft Windows
+
+- 開発
+  - Microsoft
+- 用途
+  - デスクトップ
+  - 組み込み
+  - サーバ
+  - モバイル機器
+- 商用OS
+
+---
+<!-- 
+  _header: 'OSの種類'
+-->
+
+### macOS
+
+- 開発
+  - Apple
+- 用途
+  - デスクトップ
 
 ---
 ## リアルタイムOS
@@ -46,6 +94,9 @@ class:
 <!-- 
   _header: 'リアルタイムOS'
 -->
+
+- リアルタイム性が求められる用途で用いられる
+  - 組み込みなど
 
 ---
 ## ゲーム機や家電のOS
