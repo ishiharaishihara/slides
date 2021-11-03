@@ -33,7 +33,7 @@ class:
   _header: ベアメタル型ハイパーバイザ
 -->
 
-![w:800px](/virtualization/BareMetalHyperVisor.svg)
+![w:800px](./virtualization/BareMetalHyperVisor.svg)
 
 ---
 <!--
@@ -51,7 +51,7 @@ class:
   _header: ホスト型ハイパーバイザ
 -->
 
-![w:800px](/virtualization/HostedHyperVisor.svg)
+![w:800px](./virtualization/HostedHyperVisor.svg)
 
 ---
 <!--
